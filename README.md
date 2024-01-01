@@ -38,6 +38,10 @@ TravelLokal, an innovative web application, is set to revolutionize the explorat
 
 ## Objectives
 
+The main objective of TravelLokal is to build a user-centric platform that simplifies the entire travel experience inside a single location. The program promises to speed processes such as itinerary preparation, delivering tailored recommendations based on user preferences, and facilitating seamless bookings for hotels and transportation through intuitive design and user-friendly interfaces. The platform helps users to make wise decisions by centralizing local travel information, resulting in a more pleasurable and stress-free exploration of their selected destination.
+
+Furthermore, the app aims to promote a sense of community by including tools that allow users to share their experiences, reviews, and travel recommendations with other users. This social component improves the platform's value by fostering a dynamic and collaborative environment for travelers.
+
 ## Features and functionalities
 
 ## ERD diagram with relationship. 
